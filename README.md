@@ -54,7 +54,6 @@ It is designed with a **clean, business-focused layout** to enable quick insight
 ### 🔹 Cockpit View
 ![Cockpit Dashboard](https://github.com/Sanketkshirsagar05/Tableau-Web-Trafiic-Performance-Dashboard/blob/main/Dashboard%20Screenshot/1.Cockpit.png)
 
----
 
 ### 🔹 Top Performers View
 ![Top Performers Dashboard](https://github.com/Sanketkshirsagar05/Tableau-Web-Trafiic-Performance-Dashboard/blob/main/Dashboard%20Screenshot/2.Top%20Performers.png)
