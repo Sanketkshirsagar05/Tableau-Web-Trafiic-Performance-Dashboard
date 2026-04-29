@@ -7,8 +7,6 @@ An interactive **Web Traffic Analysis Dashboard** built using Tableau to monitor
 ## 🚀 Live Dashboard
 👉 https://public.tableau.com/app/profile/sanket.kshirsagar/viz/WebTrafficPerformanceDashboard/Cockpit  
 
----
-
 ## 📁 GitHub Repository
 👉 https://github.com/Sanketkshirsagar05/Tableau-Web-Trafiic-Performance-Dashboard  
 
