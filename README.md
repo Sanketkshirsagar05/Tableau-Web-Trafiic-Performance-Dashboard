@@ -75,15 +75,6 @@ It is designed with a **clean, business-focused layout** to enable quick insight
 - Evaluated page-level performance to improve content strategy
 - Tracked monthly trends for performance comparison
 
----
-
-## ⚙️ Design & Performance Considerations
-
-- Optimized layout for better readability and user experience  
-- Used minimal and meaningful visuals to reduce clutter  
-- Balanced multiple views to maintain performance efficiency  
-
-👉 Tableau dashboards can slow down or lose clarity if overloaded with too many elements or improper sizing, so efficient design is crucial for performance. :contentReference[oaicite:0]{index=0}  
 
 ---
 
