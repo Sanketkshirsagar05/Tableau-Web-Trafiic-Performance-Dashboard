@@ -102,6 +102,3 @@ I welcome feedback and suggestions to further improve this project.
 🔗 LinkedIn: https://www.linkedin.com  
 📊 Tableau Public: https://public.tableau.com/app/profile/sanket.kshirsagar  
 
----
-
-## ⭐ If you like this project, give it a star!
